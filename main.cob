@@ -7,6 +7,6 @@ ENVIRONMENT DIVISION.
 DATA DIVISION.
 PROCEDURE DIVISION.
 MAIN SECTION.
-DISPLAY "Hello World!
+DISPLAY "Hello World
 STOP RUN.
 ****************************
